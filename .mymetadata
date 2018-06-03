@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="xiaomiws"
+  id="myeclipse.1520997335244"
+  context-root="/xiaomiws"
+  j2ee-spec="5.0"
+  archive="xiaomiws.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
